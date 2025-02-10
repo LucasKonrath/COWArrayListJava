@@ -1,7 +1,7 @@
 ### Compare performance between Sync List and Copy On Write Array List
 
 #### Plot visualization of results:
-![img.png](img.png)
+![img_1.png](img_1.png)
 - Synchronized List JMH Results:
 
 | Benchmark | Mode | Cnt | Score | Error | Units |
